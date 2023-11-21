@@ -31,7 +31,7 @@ This project represents a simple microservices architecture with three services 
 
 1. Clone the repository:
 
-   ```bash
+```bash
    git clone  https://github.com/abdelfattehsakkat/microservice.git
 ```
 
