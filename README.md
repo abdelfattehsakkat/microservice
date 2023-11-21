@@ -2,6 +2,10 @@
 
 This project represents a simple microservices architecture with three services (Product Service, User Service, Order Service) and an API Gateway.
 
+
+![image](https://github.com/abdelfattehsakkat/microservice/assets/61501905/41f919ca-9b08-47ea-9693-ca8ff1d81439)
+
+
 ## Project Structure
 
 - **api-gateway:** Handles routing and acts as the entry point for client requests.
