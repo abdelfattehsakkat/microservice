@@ -106,6 +106,8 @@ The API Gateway will be running on http://localhost:3000.
   - /orders/:id - Get order by ID (comming soon)
  
 **Example**
+
+
 <img width="649" alt="Screenshot 2023-11-21 at 9 04 13 PM" src="https://github.com/abdelfattehsakkat/microservice/assets/61501905/ee2aed05-bd69-40ad-9e4c-7ea8fc970621">
 
 
